@@ -1,0 +1,47 @@
+# 1.3 開發工具簡介
+
+## 瀏覽器
+
+課堂上以 Chrome 為主，但網站前端工程師的工作，需要下載各種不同的瀏覽器，以便測試版面、功能狀況。\(請同學至少下載 Chrome 及 Firefox\)：
+
+* [Chrome](https://www.google.com/intl/zh-TW/chrome/)
+* [Firefox](https://www.mozilla.org/zh-TW/firefox/new/)
+* Safari
+* [Edge](https://www.microsoft.com/en-us/edge)
+* IE11
+* [Opera](https://www.opera.com/zh-tw)
+
+## 編輯器
+
+老師主要使用的是 Atom 編輯器，若已經有慣用的編輯器，可繼續使用。
+
+* [Atom](https://atom.io/)
+* [Sublime](https://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
+
+## 建立專案資料夾
+
+專案資料夾名稱為：**html\_css**
+
+### 第一步：開啟編輯器\(以 Atom 為例\)
+
+![&#x958B;&#x555F;&#x7FD2;&#x6163;&#x4F7F;&#x7528;&#x7684;&#x7DE8;&#x8F2F;&#x5668;&#xFF0C;&#x6B64;&#x5716;&#x70BA; Atom &#x7DE8;&#x8F2F;&#x5668;](../.gitbook/assets/open_project_step1.png)
+
+### 第二步：加入專案資料夾
+
+請先在作業系統桌面或任何您習慣的位置，建立一個空的資料夾，名稱為 **html\_css** ，建立好後，使用編輯器開啟專案資料夾\(如下圖，**Add Project Folder**\)：
+
+![&#x4F7F;&#x7528; Atom &#x7DE8;&#x8F2F;&#x5668;&#x52A0;&#x5165;&#x5C08;&#x6848;&#x8CC7;&#x6599;&#x593E;](../.gitbook/assets/open_project_step2.png)
+
+如下圖，再選擇剛才建立好的 **html\_css** 資料夾：
+
+![&#x9078;&#x64C7;&#x5C08;&#x6848;&#x8CC7;&#x6599;&#x593E;](../.gitbook/assets/open_project_step3.png)
+
+### 第三步：完成加入專案資料夾
+
+![&#x5C08;&#x6848;&#x8CC7;&#x6599;&#x593E;&#x52A0;&#x5165;&#x5B8C;&#x6210;](../.gitbook/assets/open_project_step4%20%281%29.png)
+
+## Atom 編輯器開發環境簡介
+
+![](../.gitbook/assets/atom_intro%20%281%29.png)
+
