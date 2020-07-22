@@ -95,7 +95,7 @@
 2、滑鼠右鍵 → 檢視原始碼
 {% endhint %}
 
-## 使用 Atom 編輯器安裝 atom-live-server
+## 使用 Atom 安裝 atom-live-server
 
 Atom → Preferences → Install → 輸入「atom-live-server」
 
@@ -106,4 +106,10 @@ Atom → Preferences → Install → 輸入「atom-live-server」
 ![](../.gitbook/assets/start_atom_live_server.png)
 
 就產生了 **`http://127.0.0.1:3000`** 網址。
+
+
+
+## 使用 Atom 安裝 auto-indent
+
+同上步驟，Atom → Preferences → Install → 輸入「atom-indent」。
 
