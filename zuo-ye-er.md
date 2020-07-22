@@ -32,17 +32,17 @@
 
 ## 繳交方式
 
-### 方式一：Tibame 平台 \(ED103 使用\)
+### 方式一：Tibame 平台 \(優先使用\)
 
 
 
 ### 方式二： FTP
 
-進到 FTP 的 「ED103作業」→「網頁入門」→「自己的學號」→ 建立「作業二」資料夾。然後將 assignment2 裡的所有東西上傳。
+進到 FTP 的 「TED101作業」→「網頁入門」→「自己的學號」→ 建立「作業二」資料夾。然後將 assignment2 裡的所有東西上傳。
 
 例：學號為 T19xxx，則：
 
-* ED103作業/網頁入門/**T19xxx/作業二**
+* TED101作業/網頁入門/**T19xxx/作業二**
 
 再將 assignment2 資料夾裡的所有東西上傳，結果範例如下：
 
@@ -55,5 +55,5 @@
 
 ## 參考作法
 
-[https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_assignment2.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/html_css_assignment2.zip)
+
 
