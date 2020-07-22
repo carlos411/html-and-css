@@ -39,11 +39,11 @@
 
 參考作法：
 
-[https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_assignment1.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/html_css_assignment1.zip)
+
 
 ## 作業繳交
 
-### 方式一：Tibame 平台 \(ED103 使用\)
+### 方式一：Tibame 平台 \(優先使用\)
 
 
 
@@ -51,17 +51,17 @@
 
 繳交檔案名稱為 **form.html** ，上傳至 ftp。
 
-進到 FTP 的 「ED103作業」→「網頁入門」→「自己的學號」→建立「作業一」資料夾。上傳至此。
+進到 FTP 的 「TED101作業」→「網頁入門」→「自己的學號」→建立「作業一」資料夾。上傳至此。
 
 例：學號為 T19xxx：
 
-* ED103作業/網頁入門/**T19xxx/作業一/form.html**
+* TED101作業/網頁入門/**T19xxx/作業一/form.html**
 
 \*\*\*\*
 
 ### **方式三：Dropbox**
 
-先將 `assignment1` 資料夾壓成壓縮檔，然後點擊這個[網址](https://www.dropbox.com/request/FfZC9jKUH872OdjoRONg)，再按照以下示意圖繳交：
+先將 `assignment1` 資料夾壓成壓縮檔，然後點擊這個網址，再按照以下示意圖繳交：
 
 一、選擇壓縮檔
 
