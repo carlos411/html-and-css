@@ -111,5 +111,5 @@ Atom → Preferences → Install → 輸入「atom-live-server」
 
 ## 使用 Atom 安裝 auto-indent
 
-同上步驟，Atom → Preferences → Install → 輸入「atom-indent」。
+同上步驟，Atom → Preferences → Install → 輸入「auto-indent」。
 
