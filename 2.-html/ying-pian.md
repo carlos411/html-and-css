@@ -33,7 +33,7 @@ playsinline：針對 iOS ，在播放影片的時候，可以不用自動全螢�
 * video/webm
 
 ```markup
-<video width="500" controls autoplay disablePictureInPicture controlsList="nodownload" poster="https://picsum.photos/id/406/500/300" loop> 
+<video width="500" controls autoplay disablePictureInPicture controlsList="nodownload" poster="https://picsum.photos/id/406/500/300" muted loop> 
   <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
   <source src="http://techslides.com/demos/sample-videos/small.ogv" type="video/ogg"> 
   出現這個訊息，表示您的瀏覽器不支援 HTML5 video 標籤。
