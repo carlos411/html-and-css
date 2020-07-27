@@ -40,9 +40,7 @@ JavaScript 負責「**行為**」，包含了使用者與網頁之間的互動�
 * 將作業範本裡的「文案」、「圖片」全部換掉。換成自己想要說明的內容。
 * 仿照「商品特色」，往下加一個區塊叫做「退貨需知」，並撰寫相關內容。
 
-### 作業繳交
-
-上傳到 [Google Drive](https://drive.google.com/drive/folders/1yKlr41LztH1jLm1FGBtJ8PvuDhGDdMGx)，建立自己學號的資料夾\( 例：`T19xxx` \)，並將作業\( `html_css_marketing_assignment` 資料夾\)都傳上去。
+### 
 
 ### 繳交期限
 
