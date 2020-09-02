@@ -55,7 +55,5 @@
 
 ## 參考作法
 
-[https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_assignment2.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/html_css_assignment2.zip)
-
 
 
