@@ -3,7 +3,7 @@
 * [網頁設計 - HTML & CSS](README.md)
 * [1. 簡介](1.-jian-jie/README.md)
   * [1.1 講者簡介](1.-jian-jie/jiang-zhe-jian-jie.md)
-  * [1.2 課程簡介](1.-jian-jie/ke-cheng-jian-jie.md)
+  * [1.2 課程簡介](1.-jian-jie/1.2-about-course.md)
   * [1.3 網站前端簡介](1.-jian-jie/1.3-wang-zhan-qian-duan-jian-jie.md)
   * [1.4 開發工具簡介](1.-jian-jie/1.4-gong-ju-jian-jie.md)
   * [1.5 第一個網頁](1.-jian-jie/1.5-di-yi-ge-wang-ye.md)
