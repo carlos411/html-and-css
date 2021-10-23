@@ -2,7 +2,7 @@
 
 Flexbox 排版模式是 CSS3 才有的東西，所有如果要使用，請留意它的支援度。來看一下 [Flexbox 的支援度](https://caniuse.com/#search=flexible)。
 
-![Flexbox &#x5728;&#x5404;&#x700F;&#x89BD;&#x5668;&#x7684;&#x652F;&#x63F4;&#x7A0B;&#x5EA6;](../.gitbook/assets/flexbox_support.png)
+![Flexbox 在各瀏覽器的支援程度](../.gitbook/assets/flexbox\_support.png)
 
 ## 什麼是 Flexbox Model？
 
@@ -51,35 +51,35 @@ ul{
 
 {% embed url="https://codepen.io/carlos411/pen/vYBmNLV" %}
 
-發現 ul 內層的 li 變成水平排列了\(且沒有空格問題\)，到這邊我們需要先瞭解幾件事情：
+發現 ul 內層的 li 變成水平排列了(且沒有空格問題)，到這邊我們需要先瞭解幾件事情：
 
-* ul 已經變成了 **Flexbox Model** 排版模式，會直接影響到其 **第一層子元素\(Flex item\(s\)\)** 的排版行為。
+* ul 標籤已經變成了 **Flexbox Model** 排版模式，會直接影響到其 **第一層子元素(Flex item(s))** 的排版行為。
 * ul 是 Flexbox Model 中的 **Flex container**。
-* li 是 Flexbox Model 中的 **Flex item\(s\)**，因為是 ul 的第一層子元素。
+* li 是 Flexbox Model 中的 **Flex item(s)**，因為是 ul 的第一層子元素。
 * 此範例適用於任何父層、子層元素，不僅限於 ul、li，也可以用在任何 div 或其它元素。
-* Items \( 此例為 li \) 的高度，會跟著 Container \( 此例為 ul \)。
+* Items ( 此例為 li ) 的高度，會跟著 Container ( 此例為 ul ) 的高度增加。
 
 ### 瞭解 Axis
 
-當一個元素被設定成 `display: flex;` 或 `display: inline-flex;` 時，就會有 Main Axis\(主軸\) 和 Cross Axis\(交錯軸\)這概念：
+當一個元素被設定成 `display: flex;` 或 `display: inline-flex;` 時，就會有 Main Axis(主軸) 和 Cross Axis(交錯軸)這概念：
 
-當 `flex-direction` 是 row\(預設\) 或 row-reverse：
+當 `flex-direction` 是 row(預設) 或 row-reverse：
 
-![](../.gitbook/assets/main_axis_row%20%281%29.png)
+![](<../.gitbook/assets/main\_axis\_row (1).png>)
 
 當 `flex-direction` 是 column 或 column-reverse：
 
-![](../.gitbook/assets/main_axis_column%20%281%29.png)
+![](<../.gitbook/assets/main\_axis\_column (1).png>)
 
 
 
-## Flex Container 相關屬性，此例為 &lt;ul&gt;
+## Flex Container 相關屬性，此例為 \<ul>
 
 
 
 ### flex-direction：方向如何排列
 
-內層元素\(li\)沿著 **主軸\(Main Axis\)** 來排列，有四種方向：
+內層元素(li)沿著 **主軸(Main Axis)** 來排列，有四種方向：
 
 * `row`：這是預設，由左至右。
 * `column`：由上至下。
@@ -103,9 +103,9 @@ ul{
 
 內層元素過多的時候，該如何斷行，有三種設定值：
 
-* `no-wrap`：\(預設值\)，代表即使 Flex Items 數量過多，依然不會斷行，Flex Container 都會試圖去容納這些 Flex Items 在同一個軸。
-* `wrap`：代表當 Flex Items 數量過多，多到 Flex Container 裝不下的時候，會斷行，斷行會延著交錯軸\(Cross Axis\)。
-* `wrap-reverse`：代表當 Flex Items 數量過多，多到 Flex Container 裝不下的時候，會斷行，斷行會延著交錯軸\(Cross Axis\)的反向。
+* `nowrap`：(預設值)，代表即使 Flex Items 數量過多，依然不會斷行，Flex Container 都會試圖去容納這些 Flex Items 在同一個軸。
+* `wrap`：代表當 Flex Items 數量過多，多到 Flex Container 裝不下的時候，會斷行，斷行會延著交錯軸(Cross Axis)。
+* `wrap-reverse`：代表當 Flex Items 數量過多，多到 Flex Container 裝不下的時候，會斷行，斷行會延著交錯軸(Cross Axis)的反向。
 
 {% embed url="https://codepen.io/carlos411/pen/ExYmVEE" %}
 
@@ -120,7 +120,7 @@ ul{
   flex-flow: row wrap-reverse;
   
   /* 預設值是： */
-  /* flex-flow: row no-wrap; */
+  /* flex-flow: row nowrap; */
 }
 ```
 
@@ -137,15 +137,16 @@ ul{
 
 ### justify-content：Flex Items 如何排列
 
-透過 `justify-content` 來設定 Flex Items 在 `Main Axis` 中該如何排列，共有五種：
+透過 `justify-content` 來設定 Flex Items 在 `Main Axis` 中該如何排列，共有六種：
 
 * `flex-start`：這是預設值，全部置左。
 * `flex-end`：全部置右。
 * `center`：置中。
 * `space-between`：各個 Flex Item 的空白間距相等。
+* `space-evenly`：各個 Flex Item 的周圍間距相等。
 * `space-around`：各個 Flex Item 的左右空白間距相等，如下圖：
 
-![space-around &#x7684;&#x793A;&#x610F;&#x5716;](../.gitbook/assets/space_around_hint.png)
+![space-around 的示意圖](../.gitbook/assets/space\_around\_hint.png)
 
 範例：
 
@@ -155,9 +156,9 @@ ul{
 
 ### align-content：Flex Items 在 Cross Axis 中如何排列
 
-透過 `align-content` 來設定 Flex Items 在 `Cross Axis(交錯軸)` 中該如何排列，共有六種。
+透過 `align-content` 來設定 Flex Items 在 `Cross Axis(交錯軸)` 中該如何排列，共有七種。
 
-註：因為 flex-wrap 預設是 `no-wrap`，即不能斷行，所以跟本無法針對「交錯軸」來排列。所以 `align-content` 屬性若要有效，必須將 flex-wrap 的屬性值設定成 `wrap` 或 `wrap-reverse` 才會有效。
+註：因為 flex-wrap 預設是 `nowrap`，即不能斷行，所以跟本無法針對「交錯軸」來排列。所以 `align-content` 屬性若要有效，必須將 flex-wrap 的屬性值設定成 `wrap` 或 `wrap-reverse` 才會有效。
 
 `align-content` 可以設定的值有：
 
@@ -165,8 +166,9 @@ ul{
 * `flex-end`
 * `center`
 * `space-between`
+* `space-evenly`
 * `space-around`
-* **`stretch`**：這是預設值，自動延展。\(相較於 justify-content，多了這個。\)
+* **`stretch`**：這是預設值，自動延展。(相較於 justify-content，多了這個。)
 
 {% embed url="https://codepen.io/carlos411/pen/XWrRXKx" %}
 
@@ -179,10 +181,10 @@ ul{
 * `flex-start`：置頂。
 * `flex-end`：置底。
 * `center`：置中。
-* **`stretch`**：\(預設值\)，自動延伸。
+* **`stretch`**：(預設值)，自動延伸。
 * `baseline`：依據 baseline 來做對齊，如下圖：
 
-![align-items &#x7684; baseline &#x5C0D;&#x9F4A;&#x65B9;&#x5F0F;](../.gitbook/assets/align_items_baseline_hint.png)
+![align-items 的 baseline 對齊方式](../.gitbook/assets/align\_items\_baseline\_hint.png)
 
 flex-direction 預設為 row：
 
@@ -191,6 +193,4 @@ flex-direction 預設為 row：
 將 flex-direction 改成 column 再觀察看看：
 
 {% embed url="https://codepen.io/carlos411/pen/JjdyrMG" %}
-
-
 

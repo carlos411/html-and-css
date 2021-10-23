@@ -14,7 +14,9 @@
 </svg>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/XGWZqV" caption="svg line" %}
+{% embed url="https://codepen.io/carlos411/pen/XGWZqV" %}
+svg line
+{% endembed %}
 
 
 
@@ -26,9 +28,10 @@
 </svg>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/ErGBGG" caption="svg circle" %}
+{% embed url="https://codepen.io/carlos411/pen/ErGBGG" %}
+svg circle
+{% endembed %}
 
 {% hint style="info" %}
 練習玩玩看範例的 svg
 {% endhint %}
-

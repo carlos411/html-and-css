@@ -4,7 +4,7 @@
 
 在 html\_css 資料夾下，建立下圖 **assignment2** 資料夾裡的相關檔案：
 
-![](../.gitbook/assets/assignment2_dir%20%281%29.png)
+![](<../.gitbook/assets/assignment2\_dir (1).png>)
 
 建完之後，即有以下檔案：
 
@@ -13,6 +13,10 @@
 * assignment2/css/index.css
 * assignment2/contact.html
 * assignment2/index.html
+
+在 `assignment2` 資料夾下，再建立一個 `images` 資料夾。
+
+
 
 ### 各檔案內容
 
@@ -87,4 +91,3 @@ header{
 }
 
 ```
-

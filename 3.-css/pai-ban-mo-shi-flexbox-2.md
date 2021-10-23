@@ -1,14 +1,14 @@
 # 3.33 Flexbox 排版 - Items
 
-## Flex Item\(s\) 相關屬性，此例為 &lt;li&gt;
+## Flex Item(s) 相關屬性，此例為 \<li>
 
-請留意 flex-direction 預設值是 row，代表 Main Axis\(主軸\)是橫向，以下範例都是以 `flex-direction: row` 來設定，之後同學可試著將 flex-direction 改成 column \(也就是將 Main Axis 改成直向\)觀察看看。
+請留意 flex-direction 預設值是 row，代表 Main Axis(主軸)是橫向，以下範例都是以 `flex-direction: row` 來設定，之後同學可試著將 flex-direction 改成 column (也就是將 Main Axis 改成直向)觀察看看。
 
 共有六種屬性可以設定，以下解說：
 
 ### order：指定順序
 
-order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而所有的 Flex Items 的排列順序都會按照 order 值的大小來針對 Main Axis \(主軸\)排列，從最小開始排，依序排到最大值。
+order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而所有的 Flex Items 的排列順序都會按照 order 值的大小來針對 Main Axis (主軸)排列，從最小開始排，依序排到最大值。
 
 {% embed url="https://codepen.io/carlos411/pen/wvwqBjz" %}
 
@@ -32,53 +32,22 @@ order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而
 
 預設值是1，也就是當空間超出 flex container 的寬度時，每一個 flex items 都會被平均壓縮。
 
-例：  
-設定 Flex Container 的寬度為 800px；  
-共5個 Flex Items ，設定寬度為 200px。  
-多出 1000 - 800 = 200。  
+例：\
+設定 Flex Container 的寬度為 800px；\
+共5個 Flex Items ，設定寬度為 200px。\
+多出 1000 - 800 = 200。\
 則每個 Flex Item 平均被壓縮40px，最後的寬度會是 160px。才不會超出 Flex Container 的寬度。
 
 {% embed url="https://codepen.io/carlos411/pen/PoYKqwW" %}
 
 
 
-複習：將所有的 Flex Items 的壓縮功能關閉：即使超過 Flex Container 也不會壓縮。
-
-```css
-/* 全部的 flex items 都關閉壓縮功能 */
-ul > li{
-  flex-shrink: 0;
-}
-```
-
-複習：只將第一個 Flex Item 的壓縮功能關閉：其餘有開啟壓縮功能的\(flex-shrink 預設值都是 1\)，就會自動平均被壓縮。
-
-```css
-/* 關閉第一個的壓縮功能 */
-ul > li:nth-child(1){
-  flex-shrink: 0;
-}
-```
-
-
-
-複習：flex-shrink 預設值都是 1，現在將其中一個的 flex-shrink 改成 2：依照比例平均被壓縮。
-
-```css
-/* 第一個的壓縮率改成 2 */
-ul > li:nth-child(1){
-  flex-shrink: 2;
-}
-```
-
-
-
 ### flex-basis：設定 Flex Item 的寬度或高度
 
-設定 flex-basis 是沿著 **Main Axis\(主軸\)** 來設定 Flex Items 的寬或高。
+設定 flex-basis 是沿著 **Main Axis(主軸)** 來設定 Flex Items 的寬或高。
 
-* 當 flex-direction 為 `row` 或 `row-reverse` 時，設定 flex-basis 等同於設定寬度\(width\)。
-* 當 flex-direction 為 `column` 或 `column-reverse` 時，設定 flex-basis 等同於設定高度\(height\)。
+* 當 flex-direction 為 `row` 或 `row-reverse` 時，設定 flex-basis 等同於設定寬度(width)。
+* 當 flex-direction 為 `column` 或 `column-reverse` 時，設定 flex-basis 等同於設定高度(height)。
 * flex-basis 的優先權會高於 width 和 height。
 * flex-basis 的預設值是 auto。
 
@@ -122,7 +91,7 @@ flex: 0 1 auto;
 
 可以設定的值有：
 
-* `auto`：\(預設值\)，表示與 Container 所設定的 `align-items` 值一樣。
+* `auto`：(預設值)，表示與 Container 所設定的 `align-items` 值一樣。
 * `flex-start`
 * `flex-end`
 * `center`
@@ -147,7 +116,7 @@ flex: 0 1 auto;
 
 請撰寫 css，結果如下圖：
 
-![](../.gitbook/assets/flexbox_center_block.png)
+![](../.gitbook/assets/flexbox\_center\_block.png)
 
 也就是將藍框的部份，置於黑框的中間。
 
@@ -172,7 +141,7 @@ flex: 0 1 auto;
 
 請撰寫 css，結果如下圖：
 
-![](../.gitbook/assets/flexbox_two_columns.png)
+![](../.gitbook/assets/flexbox\_two\_columns.png)
 
 
 
@@ -184,5 +153,4 @@ flex: 0 1 auto;
 
 ## 參考資源
 
-[CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-
+[CSS Flexbox](https://www.w3schools.com/css/css3\_flexbox.asp)

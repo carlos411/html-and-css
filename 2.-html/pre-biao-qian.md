@@ -17,9 +17,10 @@
 </pre>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/MWgJdJw" caption="pre tag" %}
+{% embed url="https://codepen.io/carlos411/pen/MWgJdJw" %}
+pre tag
+{% endembed %}
 
 {% hint style="info" %}
 練習，將範例貼到你自己的 html 文件當中，觀察瀏覽器的呈現結果。
 {% endhint %}
-
