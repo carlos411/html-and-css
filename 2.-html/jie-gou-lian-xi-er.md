@@ -20,4 +20,4 @@
 
 貼到 「Validate by Direct Input」, 結果出現如下圖 4 個訊息，請嚐試修正：
 
-![](<../.gitbook/assets/Screen Shot 2020-01-01 at 2.37.20 PM.png>)
+![](../.gitbook/assets/screen-shot-2020-01-01-at-2.37.20-pm.png)
