@@ -4,9 +4,6 @@
 
 網址：[https://docs.webmix.cc/html-and-css/](https://docs.webmix.cc/html-and-css/)
 
-或 QR Code：
+或test QR Code：
 
-![&#x7DB2;&#x9801;&#x8A2D;&#x8A08; - HTML &amp; CSS](.gitbook/assets/html_css_tutorial.png)
-
-
-
+![網頁設計 - HTML & CSS](.gitbook/assets/html\_css\_tutorial.png)
