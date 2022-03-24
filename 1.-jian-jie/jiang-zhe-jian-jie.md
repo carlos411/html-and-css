@@ -1,5 +1,15 @@
 # 1.1 講者簡介
 
+test1
+
+{% hint style="info" %}
+123
+
+456
+{% endhint %}
+
+test2
+
 ## 現況
 
 * 接案 自由工作者 Freelancer
