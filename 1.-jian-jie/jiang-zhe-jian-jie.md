@@ -1,7 +1,3 @@
----
-description: 張互賓 Carlos Chang
----
-
 # 1.1 講者簡介
 
 ## 現況
@@ -16,8 +12,6 @@ description: 張互賓 Carlos Chang
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (上集)](https://www.tibame.com/course/1821)
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (下集)](https://www.tibame.com/course/2075)
 
-
-
 ## 經歷
 
 * 2009 年：進入職場，曾任職於中視、華視、Yahoo!、新創公司。
@@ -31,7 +25,7 @@ description: 張互賓 Carlos Chang
 
 ### 網站前端
 
-* [5breakfast 早餐平台 ](https://5breakfast.com)
+* [5breakfast 早餐平台](https://5breakfast.com)
 * [X Fail 活動](http://xfail.tw)
 * [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)、[鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
 * [matchnow 網紅平台](https://matchnow.co)
