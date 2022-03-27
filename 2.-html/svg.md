@@ -18,8 +18,6 @@
 svg line
 {% endembed %}
 
-
-
 ## 範例 2：畫圓形元素
 
 ```markup
@@ -32,6 +30,5 @@ svg line
 svg circle
 {% endembed %}
 
-{% hint style="info" %}
-練習玩玩看範例的 svg
-{% endhint %}
+
+
