@@ -7,7 +7,7 @@
   * [1.3 網站前端簡介](1.-jian-jie/1.3-wang-zhan-qian-duan-jian-jie.md)
   * [1.4 開發工具簡介](1.-jian-jie/1.4-gong-ju-jian-jie.md)
   * [1.5 第一個網頁](1.-jian-jie/1.5-di-yi-ge-wang-ye.md)
-* [2. HTML](2.-html/README.md)
+* [2 HTML](2.-html/README.md)
   * [2.1 html 文件基本結構](2.-html/2.1-html-wen-jian-ji-ben-jie-gou.md)
   * [2.2 宣告、標籤、屬性、元素](2.-html/2.1-xuan-gao-biao-qian-shu-xing-yuan-su.md)
   * [2.3 保留文字格式](2.-html/pre-biao-qian.md)
