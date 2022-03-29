@@ -78,4 +78,4 @@
   * [3.34 其它補充](3.-css/3.34-qi-ta-bu-chong.md)
 * [4 大量練習](4.-ban-mian-ou-kuai-shi-zuo.md)
 * [5 作業二](zuo-ye-er.md)
-* [6. 參考資料](6.-can-kao-zi-liao.md)
+* [6 參考資料](6.-can-kao-zi-liao.md)
