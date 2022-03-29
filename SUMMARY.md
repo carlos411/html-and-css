@@ -1,7 +1,7 @@
 # Table of contents
 
 * [網頁設計 - HTML & CSS](README.md)
-* [1. 簡介](1.-jian-jie/README.md)
+* [1 簡介](1.-jian-jie/README.md)
   * [1.1 講者簡介](1.-jian-jie/jiang-zhe-jian-jie.md)
   * [1.2 課程須知](1.-jian-jie/1.2-about-course.md)
   * [1.3 網站前端簡介](1.-jian-jie/1.3-wang-zhan-qian-duan-jian-jie.md)
