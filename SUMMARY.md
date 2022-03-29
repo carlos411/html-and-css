@@ -41,7 +41,7 @@
   * [2.31 HTML 所有標籤](https://www.w3schools.com/tags/)
   * [2.32 表單](2.-html/2.32-biao-chan.md)
   * [2.33 作業一](2.-html/jie-gou-lian-xi-san.md)
-* [3. CSS](3.-css/README.md)
+* [3 CSS](3.-css/README.md)
   * [3.1 套用 CSS](3.-css/3.1-tao-yong-css.md)
   * [3.2 作業二說明，共用 CSS](3.-css/gong-yong-css.md)
   * [3.3 註解](3.-css/3.2-zhu-jie.md)
