@@ -44,3 +44,68 @@
 ## 觀察 post 資料傳遞
 
 form 標籤的 action 屬性，請改成 `http://notes.webmix.cc/ex_post.php`。method 屬性，設定成 `post`。
+
+
+
+
+
+form.html：
+
+```html
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <form action="https://notes.webmix.cc/ex.php" method="get">
+
+      <div>
+        <label for="username">帳號：</label>
+        <input type="text" id="username" name="username">
+      </div>
+
+      <div>
+        <label for="password">密碼：</label>
+        <input type="password" id="password" name="password">
+      </div>
+
+      <div>
+        <label>飲食：</label>
+        <input type="radio" name="food_type" value="葷" id="type1" checked> <label for="type1">葷</label>
+        <input type="radio" name="food_type" value="素" id="type2"> <label for="type2">素</label>
+      </div>
+
+      <div>
+        <label>人數：</label>
+        <select name="num">
+          <option value="1">1位</option>
+          <option value="2">2位</option>
+          <option value="3">3位</option>
+        </select>
+      </div>
+
+      <div>
+        <label>興趣：</label>
+        <input type="checkbox" name="habits[]" value="運動" id="habit1"><label for="habit1">運動</label>
+        <input type="checkbox" name="habits[]" value="電影" id="habit2"><label for="habit2">電影</label>
+        <input type="checkbox" name="habits[]" value="旅遊" id="habit3"><label for="habit3">旅遊</label>
+      </div>
+
+      <div>
+        <label>其它事項：</label><br>
+        <textarea rows="10" cols="30" name="notes"></textarea>
+      </div>
+
+      <div>
+        <button type="submit">資料送出</button>
+      </div>
+    </form>
+
+
+  </body>
+</html>
+```
+
