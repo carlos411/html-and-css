@@ -6,7 +6,7 @@
 
 注意事項：
 
-* form 標籤的 action 屬性，設定成 `http://notes.carlos-studio.com/ex.php`。method 屬性，設定成 `get`。
+* form 標籤的 action 屬性，設定成 `http://notes.webmix.cc/ex.php`。method 屬性，設定成 `get`。
 * 帳號 `name="username"`；密碼 `name="password"`；飲食 `name="food_type"`，「葷」 這個的 value 請設定成「葷」；「素」 這個的 value 請設定成「素」。
 * 密碼欄位，type 設定成 `password`。
 * 人數 `name="num"` 的下拉選單，建立「1位」、「2位」、「3位」。分別 option 的value 為 1、2、3。
@@ -19,8 +19,6 @@
 
 ![基本 form 表單](../.gitbook/assets/habits\_form.png)
 
-
-
 假設輸入以下資料，點擊「資料送出」按鈕後：
 
 ![假設輸入表單資料](../.gitbook/assets/send.png)
@@ -28,8 +26,6 @@
 結果應如下圖(觀察網址)：
 
 ![](<../.gitbook/assets/send\_result (1).png>)
-
-
 
 參考作法：
 
@@ -45,8 +41,6 @@
 
 繳交期限：9/29(三)
 
-
-
 ## 觀察 post 資料傳遞
 
-form 標籤的 action 屬性，請改成 `http://notes.carlos-studio.com/ex_post.php`。method 屬性，設定成 `post`。
+form 標籤的 action 屬性，請改成 `http://notes.webmix.cc/ex_post.php`。method 屬性，設定成 `post`。
