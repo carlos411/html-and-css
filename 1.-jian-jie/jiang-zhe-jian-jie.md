@@ -1,13 +1,23 @@
 # 1.1 講者簡介
 
+## 聯絡方式
+
+張互賓/Carlos
+
+* [個人 FB](https://www.facebook.com/hubin)
+* [FB 專頁](https://www.facebook.com/webmix.cc/)
+* 個人 email： chang.abin@gmail.com
+
+
+
 ## 現況
 
-* 接案 自由工作者 Freelancer
+* 自由工作者 Freelancer，承接網站專案及授課。
 * 成立 粉絲頁 ，分享網站知識及文章。
 * 成立 卡斯有限公司，承接主機代管、前端開發、網站架設等服務。
 * 於 Tibame 教學網站設計開發相關領域課程。
 
-## 線上課程
+## 錄製的線上課程
 
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (上集)](https://www.tibame.com/course/1821)
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (下集)](https://www.tibame.com/course/2075)
@@ -23,11 +33,26 @@
 * 2020 年：Tibame 講師
 * 2021 年：錄製線上課程
 
+
+
+## 技術堆疊
+
+前端：HTML、CSS(SASS)、JavaScript(jQuery、Vue、React)、Gulp。
+
+後端：PHP、Node.js(Express)、MySQL、MariaDB、MongoDB、CentOS。
+
+版本控管：Git。
+
+其它研究：Vitest、Docker、Drone、APP。
+
+
+
+
+
 ## 作品分享(部份)
 
 ### 網站前端
 
-* [5breakfast 早餐平台](https://5breakfast.com)
 * [X Fail 活動](http://xfail.tw)
 * [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)、[鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
 * [matchnow 網紅平台](https://matchnow.co)
@@ -36,7 +61,6 @@
 * [有機媽咪網](http://www.naturalmammy.com)
 * [健康好腎活](http://www.ckdlife.com.tw/index)
 * [Ctrl + P 兒童3D列印](https://ctrl-p.tw)
-* [高股息存股單頁式切版](https://shop.nstock.tw/rich\_stock/index.html)
 
 ### 主機代管
 
@@ -52,12 +76,5 @@
 * [長風文教基金會](http://fairwindsfoundation.org)
 * [矽谷創業家協會](https://sveat.org)
 
-## 聯絡方式
 
-張互賓/Carlos
 
-* [個人 FB](https://www.facebook.com/hubin)
-* [FB 專頁](https://www.facebook.com/webmix.cc/)
-* 個人 email： chang.abin@gmail.com
-
-希望 學員/讀者 在這學習領域中，有遇到任何問題，可直接與我聯繫，盼能協助各位在這領域上精進。
