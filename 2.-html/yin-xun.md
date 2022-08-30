@@ -10,7 +10,7 @@
 
 controls：顯示控制列。
 
-autoplay：自動播放，實測的結果有的瀏覽器不會自動播放。
+autoplay：自動播放。
 
 controlsList="nodownload"：關閉下載按鈕。
 
@@ -29,9 +29,7 @@ muted：靜音。
 <audio controls loop>
   <source src="https://www.w3schools.com/jsref/horse.mp3" type="audio/mpeg">
   <source src="https://www.w3schools.com/jsref/horse.ogg" type="audio/ogg">
-  出現這個訊息，表示您的瀏覽器不支援 HTML5 audio 標籤。
 </audio>
 ```
 
 {% embed url="https://codepen.io/carlos411/pen/mdbWyEO" %}
-
