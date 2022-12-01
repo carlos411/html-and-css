@@ -16,8 +16,6 @@
 
 在 `assignment2` 資料夾下，再建立一個 `images` 資料夾。
 
-
-
 ### 各檔案內容
 
 index.html：
@@ -38,7 +36,6 @@ index.html：
     <a href="./contact.html">連到 contact.html</a>
   </body>
 </html>
-
 ```
 
 contact.html：
@@ -59,7 +56,6 @@ contact.html：
     <a href="./index.html">連到 index.html</a>
   </body>
 </html>
-
 ```
 
 ./css/index.css
@@ -80,7 +76,6 @@ a{
 a{
   color: red;
 }
-
 ```
 
 ./css/common/header.css
@@ -89,5 +84,4 @@ a{
 header{
   border: 1px solid red;
 }
-
 ```
