@@ -1,5 +1,13 @@
 # 1.1 講者簡介
 
+## 近期課程
+
+「[AI助理GitHub Copilot | 提升前端開發效率](https://www.tibame.com/course/4359?utm\_source=teacher\&utm\_medium=recommend\&utm\_campaign=pur\_ma\_teacherfriend\_20230621)」：
+
+<figure><img src="../.gitbook/assets/20230619-AI助理GitHub Copilot-流量-V4_1200x630.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 ## 聯絡方式
 
 張互賓/Carlos
