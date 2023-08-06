@@ -31,7 +31,7 @@
   * [2.21 引用](2.-html/yin-yan.md)
   * [2.22 有結構的語意元素](2.-html/2.15-you-jie-gou-de-yu-yi-yuan-su.md)
   * [2.23 結構驗證](2.-html/jie-gou-lian-xi-er.md)
-  * [2.25 HTML Entity(實體)](2.-html/2.17-html-entity-shi-ti.md)
+  * [2.24 HTML Entity(實體)](2.-html/2.17-html-entity-shi-ti.md)
   * [2.28 影片](2.-html/ying-pian.md)
   * [2.29 音訊](2.-html/yin-xun.md)
   * [2.30 其它標籤](2.-html/qi-ta-biao-qian.md)
