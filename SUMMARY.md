@@ -18,7 +18,7 @@
   * [2.8 縮寫](2.-html/su-xie.md)
   * [2.9 斷行與水平分隔線](2.-html/2.5-duan-hang-yu-shui-ping-fen-ge-xian.md)
   * [2.10 段落](2.-html/2.6-duan-luo.md)
-  * [2.12 內容標題](2.-html/2.7-nei-rong-biao-ti.md)
+  * [2.11 內容標題](2.-html/2.7-nei-rong-biao-ti.md)
   * [2.13 結構練習一](2.-html/jie-gou-lian-xi-yi.md)
   * [2.14 列表](2.-html/2.8-lie-biao.md)
   * [2.15 清單](2.-html/2.9-qing-chan.md)
