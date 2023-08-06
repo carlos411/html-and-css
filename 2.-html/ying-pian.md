@@ -47,6 +47,3 @@ loop：影片播放結束後，自動重播。
 
 {% embed url="https://codepen.io/carlos411/pen/gOYmbYw" %}
 
-{% hint style="info" %}
-練習：請將範例原始碼，貼至您的編輯器，實際用瀏覽器瀏覽，並改變各種參數試試。
-{% endhint %}
