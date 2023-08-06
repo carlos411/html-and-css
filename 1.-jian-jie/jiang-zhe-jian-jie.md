@@ -1,13 +1,5 @@
 # 1.1 講者簡介
 
-## 近期課程
-
-「[AI助理GitHub Copilot | 提升前端開發效率](https://www.tibame.com/course/4359?utm\_source=teacher\&utm\_medium=recommend\&utm\_campaign=pur\_ma\_teacherfriend\_20230621)」：
-
-<figure><img src="../.gitbook/assets/20230619-AI助理GitHub Copilot-流量-V4_1200x630.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
 ## 聯絡方式
 
 張互賓/Carlos
@@ -25,8 +17,11 @@
 * 成立 卡斯有限公司，承接主機代管、前端開發、網站架設等服務。
 * 於 Tibame 教學網站設計開發相關領域課程。
 
+
+
 ## 錄製的線上課程
 
+* [AI助理GitHub Copilot | 提升前端開發效率](https://www.tibame.com/course/4359?utm\_source=teacher\&utm\_medium=recommend\&utm\_campaign=pur\_ma\_teacherfriend\_20230621)
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (上集)](https://www.tibame.com/course/1821)
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (下集)](https://www.tibame.com/course/2075)
 
