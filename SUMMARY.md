@@ -23,7 +23,7 @@
   * [2.13 列表](2.-html/2.8-lie-biao.md)
   * [2.14 清單](2.-html/2.9-qing-chan.md)
   * [2.15 連結](2.-html/2.10-lian-jie.md)
-  * [2.17 圖片](2.-html/2.11-tu-pian.md)
+  * [2.16 圖片](2.-html/2.11-tu-pian.md)
   * [2.18 獨立內容](2.-html/tu-biao.md)
   * [2.19 表格](2.-html/2.12-biao-ge.md)
   * [2.20 嵌入外站](2.-html/2.13-qian-ru-nei-rong.md)
