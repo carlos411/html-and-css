@@ -20,7 +20,7 @@
   * [2.10 段落](2.-html/2.6-duan-luo.md)
   * [2.11 內容標題](2.-html/2.7-nei-rong-biao-ti.md)
   * [2.12 判別區塊與行內](2.-html/jie-gou-lian-xi-yi.md)
-  * [2.14 列表](2.-html/2.8-lie-biao.md)
+  * [2.13 列表](2.-html/2.8-lie-biao.md)
   * [2.15 清單](2.-html/2.9-qing-chan.md)
   * [2.16 連結](2.-html/2.10-lian-jie.md)
   * [2.17 圖片](2.-html/2.11-tu-pian.md)
