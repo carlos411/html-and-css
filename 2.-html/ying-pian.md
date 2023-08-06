@@ -20,7 +20,7 @@ playsinline：在手持裝置(手機、平板)，想要自動可以播放影片�
 
 disablePictureInPicture：關閉子母畫面。
 
-controlsList="nodownload"：關閉下載按鈕。
+controlsList="nodownload noplaybackrate nofullscreen"：關閉「下載按鈕、播放速度、全螢幕」。
 
 poster：一開始尚未播放前的預載圖片。
 
@@ -39,7 +39,7 @@ loop：影片播放結束後，自動重播。
 * video/webm
 
 ```markup
-<video width="500" controls autoplay disablePictureInPicture controlsList="nodownload" poster="https://picsum.photos/id/406/500/300" muted loop> 
+<video width="500" controls autoplay disablePictureInPicture controlsList="nodownload noplaybackrate nofullscreen" poster="https://picsum.photos/id/406/500/300" muted loop> 
   <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
   <source src="http://techslides.com/demos/sample-videos/small.ogv" type="video/ogg"> 
 </video>
