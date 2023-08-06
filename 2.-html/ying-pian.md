@@ -1,4 +1,4 @@
-# 2.28 影片
+# 2.25 影片
 
 `<video>...</video>`
 
@@ -45,5 +45,5 @@ loop：影片播放結束後，自動重播。
 </video>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/gOYmbYw" %}
+{% embed url="https://codepen.io/carlos411/pen/WNYmWae?editors=1010" %}
 
