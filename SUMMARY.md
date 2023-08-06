@@ -34,7 +34,7 @@
   * [2.24 HTML Entity(實體)](2.-html/2.17-html-entity-shi-ti.md)
   * [2.25 影片](2.-html/ying-pian.md)
   * [2.26 音訊](2.-html/yin-xun.md)
-  * [2.30 其它標籤](2.-html/qi-ta-biao-qian.md)
+  * [2.27 其它標籤](2.-html/qi-ta-biao-qian.md)
   * [2.31 HTML 所有標籤](https://www.w3schools.com/tags/)
   * [2.32 表單](2.-html/2.32-biao-chan.md)
   * [2.33 作業一](2.-html/jie-gou-lian-xi-san.md)

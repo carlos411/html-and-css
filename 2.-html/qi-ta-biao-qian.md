@@ -1,4 +1,4 @@
-# 2.30 其它標籤
+# 2.27 其它標籤
 
 \<sup>...\</sup>：上標。側：註解或數學。
 
@@ -14,6 +14,3 @@
 
 {% embed url="https://codepen.io/carlos411/pen/RwbKXeZ" %}
 
-{% hint style="info" %}
-練習：將範例的原始碼，貼至編輯器，再用瀏覽器瀏覽觀察。
-{% endhint %}
