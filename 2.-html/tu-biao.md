@@ -1,8 +1,8 @@
-# 2.18 獨立內容
+# 2.17 獨立內容
 
-\<figure>...\</figure>：表示是一段獨立的內容。
+`<figure>...</figure>`：表示是一段獨立的內容。
 
-\<figcaption>...\</figcaption>：上述獨立內容的標題。放在 \<figure> 標籤中。
+`<figcaption>...</figcaption>`：上述獨立內容的標題。放在 \<figure> 標籤中。
 
 ## 範例
 
