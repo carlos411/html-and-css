@@ -12,17 +12,15 @@
 
 controls：顯示控制列。
 
-autoplay：自動播放。
-
-controlsList="nodownload"：關閉下載按鈕。
+controlsList="nodownload noplaybackrate"：關閉「下載按鈕、播放速度」。
 
 loop：自動重播。
-
-muted：靜音。
 
 
 
 \<source>...\</source> 提供不同格式的聲音檔，主要是讓瀏覽器從上而下依序選擇可以播放的格式，一般建議主要是 **mp3**、**ogg(或 ogv)**。
+
+
 
 網頁上常見的音訊 `type` 類型設定：
 
@@ -36,4 +34,5 @@ muted：靜音。
 </audio>
 ```
 
-{% embed url="https://codepen.io/carlos411/pen/mdbWyEO" %}
+{% embed url="https://codepen.io/carlos411/pen/rNQRbQW?editors=1010" %}
+
