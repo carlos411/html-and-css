@@ -15,7 +15,6 @@
   * [2.5 註解](2.-html/2.2-zhu-jie.md)
   * [2.6 網頁標題](2.-html/2.3-wang-ye-biao-ti.md)
   * [2.7 中介資料(Meta Data)](2.-html/2.4-zhong-jie-zi-liao-meta-data.md)
-  * [2.8 時間](2.-html/shi-jian.md)
   * [2.9 縮寫](2.-html/su-xie.md)
   * [2.10 斷行與水平分隔線](2.-html/2.5-duan-hang-yu-shui-ping-fen-ge-xian.md)
   * [2.11 段落](2.-html/2.6-duan-luo.md)
