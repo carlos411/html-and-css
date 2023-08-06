@@ -1,4 +1,4 @@
-# 2.22 引用
+# 2.21 引用
 
 `<blockquote>...</blockquote>`
 
@@ -17,8 +17,4 @@ The world’s leading conservation organization, WWF works in 100 countries and 
 ```
 
 {% embed url="https://codepen.io/carlos411/pen/gOYmOLY" %}
-
-{% hint style="info" %}
-練習範例，觀察瀏覽器的預設呈現。
-{% endhint %}
 
