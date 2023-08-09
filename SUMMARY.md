@@ -40,7 +40,7 @@
 * [3 CSS](3.-css/README.md)
   * [3.1 套用 CSS](3.-css/3.1-tao-yong-css.md)
   * [3.2 註解](3.-css/3.2-zhu-jie.md)
-  * [3.4 Selectors 1 - 屬性及值](3.-css/3.3-selectors-he-shu-xing-ji-zhi.md)
+  * [3.3 Selectors - 屬性及值](3.-css/3.3-selectors-he-shu-xing-ji-zhi.md)
   * [3.5 Selectors 2 - 符號](3.-css/3.12-qun-zu-he-chao-zhuang-xie-fa.md)
   * [3.6 Selectors 3 - class 和 id](3.-css/3.4-class-he-id.md)
   * [3.7 關於優先權](3.-css/3.7-guan-wu-quan-zhong.md)
