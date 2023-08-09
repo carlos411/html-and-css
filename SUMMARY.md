@@ -46,7 +46,7 @@
   * [3.6 關於優先權](3.-css/3.7-guan-wu-quan-zhong.md)
   * [3.7 排版 - 關於 display 屬性](3.-css/3.5-pai-ban-guan-wu-display-shu-xing.md)
   * [3.8 排版 - 區塊模型(Box Model)](3.-css/3.6-ou-kuai-mo-xing-box-model.md)
-  * [3.9 排版 - 關於 vertical-align 對齊](3.-css/3.15-pai-ban-guan-wu-verticalalign-dui-qi.md)
+  * [3.9 排版 - vertical-align 對齊](3.-css/3.15-pai-ban-guan-wu-verticalalign-dui-qi.md)
   * [3.11 排版練習 - 固定式版型](3.-css/3.10-pai-ban-lian-xi.md)
   * [3.12 關於 Pseudo Element](3.-css/3.17-guan-wu-pseudo-element.md)
   * [3.13 關於 Pseudo Class](3.-css/3.18-guan-wu-pseudo-class.md)
