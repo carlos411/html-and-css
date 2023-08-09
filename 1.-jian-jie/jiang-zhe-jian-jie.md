@@ -56,12 +56,10 @@
 ### 網站前端
 
 * [X Fail 活動](http://xfail.tw)
-* [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)、[鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
+* [鉅亨網債劵基金排行](https://fund.cnyes.com/Fixedincome/index.aspx)
+* [鉅亨網債劵基金搜尋器](https://fund.cnyes.com/Fixedincome/search.aspx)
 * [matchnow 網紅平台](https://matchnow.co)
-* [上海在野設計](http://www.zaiyedesign.com)
 * [毅創投資](http://enspire.vc/zh/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91/)
-* [有機媽咪網](http://www.naturalmammy.com)
-* [健康好腎活](http://www.ckdlife.com.tw/index)
 * [Ctrl + P 兒童3D列印](https://ctrl-p.tw)
 
 ### 主機代管
@@ -72,7 +70,6 @@
 
 ### 網站建置
 
-* [臺南市政府圖片資料庫平台](https://p.tainan.gov.tw)
 * [雕塑學會](http://sculpture.org.tw)
 * [亞太公私合夥建設發展協會](http://ppp.org.tw)
 * [長風文教基金會](http://fairwindsfoundation.org)
