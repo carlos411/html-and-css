@@ -4,18 +4,17 @@
 
 張互賓/Carlos
 
-* [個人 FB](https://www.facebook.com/hubin)
-* [FB 專頁](https://www.facebook.com/webmix.cc/)
 * 個人 email： chang.abin@gmail.com
+* 「[WebMix - 設計好網站](https://www.facebook.com/webmix.cc)」FB 粉絲專頁
 
 
 
 ## 現況
 
 * 自由工作者 Freelancer，承接網站專案及授課。
-* 成立 粉絲頁 ，分享網站知識及文章。
-* 成立 卡斯有限公司，承接主機代管、前端開發、網站架設等服務。
-* 於 Tibame 教學網站設計開發相關領域課程。
+* 成立粉絲頁 ，分享網站知識及文章。
+* 成立卡斯有限公司，承接主機代管、前端開發、網站架設服務。
+* 於 Tibame 教學網站開發相關領域課程。
 
 
 
@@ -25,28 +24,28 @@
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (上集)](https://www.tibame.com/course/1821)
 * [成為前端工程師｜透過 HTML 與 CSS 認識網頁設計，從 0 到 1 打造實用介面 (下集)](https://www.tibame.com/course/2075)
 
+
+
 ## 經歷
 
 * 2009 年：進入職場，曾任職於中視、華視、Yahoo!、新創公司。
-* 2013 年：全職的網站前端自由工作者。
+* 2013 年：全職的網站前端開發之自由工作者。
 * 2016 年：成立卡斯有限公司：承接網站設計開發、主機代管。
-* 2017 年：承接標案
+* 2017 年：承接標案「臺南市政府圖片資料庫平台」
 * 2018 年：網站相關教學
 * 2019 年：合夥存股管家
-* 2020 年：Tibame 講師
-* 2021 年：錄製線上課程
+* 2020 \~ 2023 年：Tibame 講師
+* 2021 \~ 2023 年：錄製線上課程
 
 
 
 ## 技術堆疊
 
-前端：HTML、CSS(SASS)、JavaScript(jQuery、Vue、React)、Gulp。
+前端：HTML、CSS(SASS)、JavaScript(jQuery、Vue、Vite)。
 
 後端：PHP、Node.js(Express)、MySQL、MariaDB、MongoDB、CentOS。
 
 版本控管：Git。
-
-其它研究：Vitest、Docker、Drone、APP。
 
 
 
