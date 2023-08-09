@@ -41,7 +41,7 @@
 
 ## 技術堆疊
 
-前端：HTML、CSS(SASS)、JavaScript(jQuery、Vue、Vite)。
+前端：HTML、CSS(SASS)、JavaScript(jQuery、Vue、Vite)、TypeScript。
 
 後端：PHP、Node.js(Express)、MySQL、MariaDB、MongoDB、CentOS。
 
