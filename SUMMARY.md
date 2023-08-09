@@ -42,7 +42,7 @@
   * [3.2 註解](3.-css/3.2-zhu-jie.md)
   * [3.3 Selectors - 屬性及值](3.-css/3.3-selectors-he-shu-xing-ji-zhi.md)
   * [3.4 Selectors - 符號](3.-css/3.12-qun-zu-he-chao-zhuang-xie-fa.md)
-  * [3.6 Selectors 3 - class 和 id](3.-css/3.4-class-he-id.md)
+  * [3.5 Selectors - class 和 id](3.-css/3.4-class-he-id.md)
   * [3.7 關於優先權](3.-css/3.7-guan-wu-quan-zhong.md)
   * [3.8 排版 - 關於 display 屬性](3.-css/3.5-pai-ban-guan-wu-display-shu-xing.md)
   * [3.9 排版 - 區塊模型(Box Model)](3.-css/3.6-ou-kuai-mo-xing-box-model.md)
