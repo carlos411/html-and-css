@@ -58,7 +58,7 @@
   * [3.18 背景樣式](3.-css/3.13-bei-jing.md)
   * [3.19 排版 - 關於定位(position)](3.-css/3.17-pai-ban-guan-wu-ding-wei-position.md)
   * [3.20 排版 - 關於浮動(float)](3.-css/3.16-pai-ban-guan-wu-fu-dong-float.md)
-  * [3.23 關於不透明度 opacity](3.-css/3.20-guan-wu-tou-ming-du-opacity.md)
+  * [3.21 關於不透明度 opacity](3.-css/3.20-guan-wu-tou-ming-du-opacity.md)
   * [3.24 關於 visibility](3.-css/3.24-guan-wu-visibility.md)
   * [3.25 關於 outline](3.-css/3.25-guan-wu-outline.md)
   * [3.26 表單樣式](3.-css/3.11-biao-chan-yang-shi.md)
