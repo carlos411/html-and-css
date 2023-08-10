@@ -62,7 +62,7 @@
   * [3.22 關於 visibility、pointer-events](3.-css/3.24-guan-wu-visibility.md)
   * [3.23 關於 outline](3.-css/3.25-guan-wu-outline.md)
   * [3.24 表單樣式](3.-css/3.11-biao-chan-yang-shi.md)
-  * [3.27 效果 - 游標](3.-css/3.24-xiao-guo-you-biao.md)
+  * [3.25 效果 - 游標](3.-css/3.24-xiao-guo-you-biao.md)
   * [3.28 效果 - 圓角](3.-css/3.14-yuan-jiao.md)
   * [3.29 效果 - 區塊陰影](3.-css/3.25-guan-wu-yin-ying.md)
   * [3.30 效果 - 文字陰影](3.-css/3.27-xiao-guo-wen-zi-yin-ying.md)
