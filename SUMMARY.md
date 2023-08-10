@@ -55,7 +55,7 @@
   * [3.15 連結樣式](3.-css/3.8-lian-jie-yang-shi.md)
   * [3.16 列表樣式](3.-css/3.9-lie-biao-yang-shi.md)
   * [3.17 表格樣式](3.-css/3.10-biao-ge-yang-shi.md)
-  * [3.19 背景樣式](3.-css/3.13-bei-jing.md)
+  * [3.18 背景樣式](3.-css/3.13-bei-jing.md)
   * [3.20 排版 - 關於定位(position)](3.-css/3.17-pai-ban-guan-wu-ding-wei-position.md)
   * [3.21 練習 - 導覽列](3.-css/3.17-lian-xi-dao-lan-lie.md)
   * [3.22 排版 - 關於浮動(float)](3.-css/3.16-pai-ban-guan-wu-fu-dong-float.md)
