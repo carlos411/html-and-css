@@ -22,7 +22,7 @@
 
 2、在 html\_css 資料夾裡建立一個資料夾，叫 **`assignment`** 資料夾，相關頁面、素材，都放在此資料夾裡。
 
-3、兩個頁面的 banner 圖片為佔整個螢幕寬度滿版，而且是 css 背景圖，最小寬度為768px；高度為 268px。
+3、在 assignment 資料夾裡，建立 images 資料夾，[下載圖檔](https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_images.zip)，將圖檔放到 images 資料夾裡。
 
 4、兩個頁面設定中間整體內容固定寬度為 768px 水平置中。
 
