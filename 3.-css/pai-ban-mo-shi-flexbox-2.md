@@ -1,4 +1,4 @@
-# 3.33 Flexbox 排版 - Items
+# 3.31 Flexbox 排版 - Items
 
 ## Flex Item(s) 相關屬性，此例為 \<li>
 
@@ -12,8 +12,6 @@ order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而
 
 {% embed url="https://codepen.io/carlos411/pen/wvwqBjz" %}
 
-
-
 ### flex-grow：有多餘空間時，如何分配剩餘空間
 
 設定讓該 Flex Item 會自行針對 Main Axis 延展，將多餘空間給佔滿。然而 flex-grow 預設值都是 0，其實就是代表將此功能關閉。設定大於等於 1 的整數，就會按比例自動填滿剩餘空間。
@@ -25,8 +23,6 @@ order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而
 例2：設定有多個 flex-grow 大於等於 1 時，「**剩餘空間**」自動依比例分配。
 
 {% embed url="https://codepen.io/carlos411/pen/KKPvwEZ" %}
-
-
 
 ### flex-shrink：Flex Container 空間不夠時，如何壓縮 Flex Items
 
@@ -40,8 +36,6 @@ order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而
 
 {% embed url="https://codepen.io/carlos411/pen/PoYKqwW" %}
 
-
-
 ### flex-basis：設定 Flex Item 的寬度或高度
 
 設定 flex-basis 是沿著 **Main Axis(主軸)** 來設定 Flex Items 的寬或高。
@@ -51,19 +45,13 @@ order 可以是任何的整數，所有的 Flex Items 預設值都是 0。然而
 * flex-basis 的優先權會高於 width 和 height。
 * flex-basis 的預設值是 auto。
 
-
-
 範例1：設定寬度：
 
 {% embed url="https://codepen.io/carlos411/pen/XWrabxr" %}
 
-
-
 範例2：設定高度：
 
 {% embed url="https://codepen.io/carlos411/pen/eYOrWmY" %}
-
-
 
 ### flex：縮寫形式
 
@@ -83,8 +71,6 @@ flex: 0 1 auto;
 
 也就是 flex 是 flex-grow、flex-shrink、flex-basis 的縮寫。
 
-
-
 ### align-self：只設定自己在這排的對齊位置
 
 與 Flex Container 的 `align-items` 的觀念一模一樣。差別在於這是設定自己這個 Flex Item。
@@ -99,8 +85,6 @@ flex: 0 1 auto;
 * `stretch`
 
 {% embed url="https://codepen.io/carlos411/pen/yLBoVyj" %}
-
-
 
 ## 練習
 
@@ -120,13 +104,9 @@ flex: 0 1 auto;
 
 也就是將藍框的部份，置於黑框的中間。
 
-
-
 參考作法：
 
 {% embed url="https://codepen.io/carlos411/pen/QWbOOjZ" %}
-
-
 
 ### 二、使用 flexbox 做固定式二欄排版
 
@@ -143,14 +123,7 @@ flex: 0 1 auto;
 
 ![](../.gitbook/assets/flexbox\_two\_columns.png)
 
-
-
 參考作法：
 
 {% embed url="https://codepen.io/carlos411/pen/mdJxoXP" %}
 
-
-
-## 參考資源
-
-[CSS Flexbox](https://www.w3schools.com/css/css3\_flexbox.asp)
