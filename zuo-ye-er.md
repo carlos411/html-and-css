@@ -2,11 +2,21 @@
 
 ## 作業內容
 
-### 示意影片
+完成以下兩張圖片的切版。
 
-{% embed url="https://youtu.be/Tgn2YZsYCGk" %}
+1、商品列表頁
 
-### 說明
+<figure><img src=".gitbook/assets/固定式版型_商品列表頁.png" alt=""><figcaption></figcaption></figure>
+
+2、商品詳細頁
+
+
+
+<figure><img src=".gitbook/assets/固定式版型_商品詳細頁.png" alt=""><figcaption></figcaption></figure>
+
+
+
+說明：
 
 1、完成影片中兩個網頁的版排。(圖片、內容皆可自行變更)，檔名分別為 `index.html`、`contact.html`。
 
