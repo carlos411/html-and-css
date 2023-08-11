@@ -1,14 +1,10 @@
-# 5. 作業二
+# 5 作業：網頁切版
 
 ## 作業內容
 
 ### 示意影片
 
 {% embed url="https://youtu.be/Tgn2YZsYCGk" %}
-
-
-
-
 
 ### 說明
 
@@ -28,17 +24,19 @@
 
 8、四張圖片下載：[https://alldata.sgp1.digitaloceanspaces.com/sample/assignment2\_images.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/assignment2\_images.zip)
 
-
-
 ## 繳交方式
 
-### 方式：Tibame 平台 (TFD104 優先使用)
+於以下網址繳交：
 
 [https://frontend.tibame.com](https://frontend.tibame.com)
 
+
+
+## 繳交期限
+
 繳交期限 10/12(二)，將 assignment2 資料夾壓縮，繳交該壓縮檔即可。
 
-## 參考作法
 
-[https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_assignment2\_20210922.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_assignment2\_20210922.zip)
+
+## 參考作法
 
