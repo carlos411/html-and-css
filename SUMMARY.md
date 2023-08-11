@@ -69,6 +69,7 @@
   * [3.29 效果 - 轉換 transform](3.-css/3.27-xiao-guo-zhuan-huan-transform.md)
   * [3.30 Flexbox 排版 - Container](3.-css/pai-ban-flexbox.md)
   * [3.31 Flexbox 排版 - Items](3.-css/pai-ban-mo-shi-flexbox-2.md)
+  * [3.32 Column 多欄排版模式](3.-css/3.32-column-duo-lan-pai-ban-mo-shi.md)
   * [3.32 其它補充](3.-css/3.34-qi-ta-bu-chong.md)
 * [4 練習](4.-ban-mian-ou-kuai-shi-zuo.md)
 * [5 作業：網頁切版](zuo-ye-er.md)
