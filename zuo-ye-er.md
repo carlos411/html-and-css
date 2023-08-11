@@ -32,11 +32,13 @@
 
 [https://frontend.tibame.com](https://frontend.tibame.com)
 
+將 **`assignment 資料夾`**壓縮變成壓縮檔(zip 檔或 rar 檔)，繳交該壓縮檔即可。
+
 
 
 ## 繳交期限
 
-繳交期限 /() 晚上 12 點之前，將 **`assignment 資料夾`**壓縮變成壓縮檔(zip 檔或 rar 檔)，繳交該壓縮檔即可。
+繳交期限 /() 晚上 12 點之前。
 
 
 
