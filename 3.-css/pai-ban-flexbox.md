@@ -4,9 +4,13 @@ Flexbox 排版模式是 CSS3 才有的東西，所有如果要使用，請留意
 
 ![Flexbox 在各瀏覽器的支援程度](../.gitbook/assets/flexbox\_support.png)
 
+
+
 ## 什麼是 Flexbox Model？
 
 這是一個 CSS3 才出現的規範，Flexbox 引進了新的排版模式，解決元素分佈不均、空白等距無法自動均分的現象。所以透過 Flexbox 的相關樣式設定，來讓子元素自動排列。
+
+
 
 ## 如何更改某元素為 Flexbox 排版模式
 
@@ -19,6 +23,8 @@ display: flex;
 ```css
 display: inline-flex;
 ```
+
+
 
 ## 第一個 Flexbox
 
@@ -56,8 +62,10 @@ ul{
 * ul 標籤已經變成了 **Flexbox Model** 排版模式，會直接影響到其 **第一層子元素(Flex item(s))** 的排版行為。
 * ul 是 Flexbox Model 中的 **Flex container**。
 * li 是 Flexbox Model 中的 **Flex item(s)**，因為是 ul 的第一層子元素。
-* 此範例適用於任何父層、子層元素，不僅限於 ul、li，也可以用在任何 div 或其它元素。
+* 此範例適用於任何父層、子層元素，不僅限於 ul、li。
 * Items ( 此例為 li ) 的高度，會跟著 Container ( 此例為 ul ) 的高度增加。
+
+
 
 ### 瞭解 Axis
 
@@ -74,8 +82,6 @@ ul{
 
 
 ## Flex Container 相關屬性，此例為 \<ul>
-
-
 
 ### flex-direction：方向如何排列
 
@@ -97,8 +103,6 @@ ul{
 
 {% embed url="https://codepen.io/carlos411/pen/jONmbmq" %}
 
-
-
 ### flex-wrap：是否斷行
 
 內層元素過多的時候，該如何斷行，有三種設定值：
@@ -108,8 +112,6 @@ ul{
 * `wrap-reverse`：代表當 Flex Items 數量過多，多到 Flex Container 裝不下的時候，會斷行，斷行會延著交錯軸(Cross Axis)的反向。
 
 {% embed url="https://codepen.io/carlos411/pen/ExYmVEE" %}
-
-
 
 ### flex-flow：方向與斷行的縮寫
 
@@ -133,8 +135,6 @@ ul{
 }
 ```
 
-
-
 ### justify-content：Flex Items 如何排列
 
 透過 `justify-content` 來設定 Flex Items 在 `Main Axis` 中該如何排列，共有六種：
@@ -151,8 +151,6 @@ ul{
 範例：
 
 {% embed url="https://codepen.io/carlos411/pen/JjPNYVe" %}
-
-
 
 ### align-content：Flex Items 在 Cross Axis 中如何排列
 
@@ -171,8 +169,6 @@ ul{
 * **`stretch`**：這是預設值，自動延展。(相較於 justify-content，多了這個。)
 
 {% embed url="https://codepen.io/carlos411/pen/XWrRXKx" %}
-
-
 
 ### align-items：同排的 Flex Items 在 Cross Axis 中如何排列
 
@@ -193,4 +189,3 @@ flex-direction 預設為 row：
 將 flex-direction 改成 column 再觀察看看：
 
 {% embed url="https://codepen.io/carlos411/pen/JjdyrMG" %}
-
