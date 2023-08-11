@@ -22,11 +22,11 @@
 
 2、在 html\_css 資料夾裡建立一個資料夾，叫 **`assignment`** 資料夾。
 
-3、在 assignment 資料夾裡，建立 images 資料夾，[下載圖檔](https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_images.zip)，將圖檔放到 images 資料夾裡。
+3、在 assignment 資料夾裡，建立 **`images`** 資料夾，[下載圖檔](https://alldata.sgp1.digitaloceanspaces.com/sample/html\_css\_images.zip)，將圖檔放到 images 資料夾裡。
 
 4、在 assignment 資料夾裡，建立 **`shop_list.html`** 及 **`shop_detail.html`** 兩個網頁檔。
 
-5、在 assignment 資料夾裡，建立 css 資料夾。
+5、在 assignment 資料夾裡，建立 **`css`** 資料夾。
 
 
 
