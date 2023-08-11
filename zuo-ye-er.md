@@ -24,6 +24,8 @@
 
 8、四張圖片下載：[https://alldata.sgp1.digitaloceanspaces.com/sample/assignment2\_images.zip](https://alldata.sgp1.digitaloceanspaces.com/sample/assignment2\_images.zip)
 
+
+
 ## 繳交方式
 
 於以下網址繳交：
@@ -34,7 +36,7 @@
 
 ## 繳交期限
 
-繳交期限 10/12(二)，將 assignment2 資料夾壓縮，繳交該壓縮檔即可。
+繳交期限 /() 晚上 12 點之前，將 **`assignment 資料夾`**壓縮變成壓縮檔(zip 檔或 rar 檔)，繳交該壓縮檔即可。
 
 
 
