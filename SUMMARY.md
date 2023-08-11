@@ -70,6 +70,6 @@
   * [3.30 Flexbox 排版 - Container](3.-css/pai-ban-flexbox.md)
   * [3.31 Flexbox 排版 - Items](3.-css/pai-ban-mo-shi-flexbox-2.md)
   * [3.32 其它補充](3.-css/3.34-qi-ta-bu-chong.md)
-* [4 大量練習](4.-ban-mian-ou-kuai-shi-zuo.md)
+* [4 練習](4.-ban-mian-ou-kuai-shi-zuo.md)
 * [5 作業：網頁切版](zuo-ye-er.md)
 * [6 參考資料](6.-can-kao-zi-liao.md)
