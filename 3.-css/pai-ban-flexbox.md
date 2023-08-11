@@ -113,6 +113,8 @@ ul{
 
 {% embed url="https://codepen.io/carlos411/pen/ExYmVEE" %}
 
+
+
 ### flex-flow：方向與斷行的縮寫
 
 單純只是個 flex-direction 和 flex-wrap 同時用的縮寫，例如：
@@ -135,6 +137,8 @@ ul{
 }
 ```
 
+
+
 ### justify-content：Flex Items 如何排列
 
 透過 `justify-content` 來設定 Flex Items 在 `Main Axis` 中該如何排列，共有六種：
@@ -152,6 +156,8 @@ ul{
 
 {% embed url="https://codepen.io/carlos411/pen/JjPNYVe" %}
 
+
+
 ### align-content：Flex Items 在 Cross Axis 中如何排列
 
 透過 `align-content` 來設定 Flex Items 在 `Cross Axis(交錯軸)` 中該如何排列，共有七種。
@@ -166,9 +172,11 @@ ul{
 * `space-between`
 * `space-evenly`
 * `space-around`
-* **`stretch`**：這是預設值，自動延展。(相較於 justify-content，多了這個。)
+* **`stretch`**：這是預設值，自動延展。
 
 {% embed url="https://codepen.io/carlos411/pen/XWrRXKx" %}
+
+
 
 ### align-items：同排的 Flex Items 在 Cross Axis 中如何排列
 
