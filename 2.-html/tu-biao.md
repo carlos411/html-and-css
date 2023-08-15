@@ -8,7 +8,7 @@
 
 ```markup
 <figure>
-  <img src="http://notes.carlos-studio.com/images/butterfly.png" alt="蝴蝶" title="蝴蝶">
+  <img src="https://alldata.sgp1.digitaloceanspaces.com/images/butterfly.png" alt="蝴蝶" title="蝴蝶">
   <figcaption>這是蝴蝶的照片，此描述會視為是圖片的標題</figcaption>
 </figure>
 ```
