@@ -30,6 +30,44 @@
 
 
 
+## 各步驟
+
+### 步驟一：header 區域
+
+在兩個頁面，body 標籤裡面，放以下的結構，留意 **`-on`**：
+
+```html
+<header class="header">
+
+  <div class="block">
+
+    <nav class="nav">
+      <a href="./shop_list.html" class="logo"><img src="./images/logo.png"></a>
+
+      <ul class="nav_list">
+        <li><a href="./shop_list.html" class="-on">花禮種類</a></li>
+        <li><a href="./shop_detail.html">花產品介紹</a></li>
+      </ul>
+
+      <div class="share_block">
+        <span class="share_text">社群連結</span>
+        <ul class="share_list">
+          <li><a href="https://www.facebook.com">FB 粉絲頁</a></li>
+          <li><a href="https://instagram.com">IG 頁面</a></li>
+        </ul>
+      </div>
+
+    </nav>
+
+  </div>
+
+</header>
+```
+
+
+
+
+
 ## 繳交方式
 
 於以下網址繳交：
