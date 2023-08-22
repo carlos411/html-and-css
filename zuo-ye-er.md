@@ -66,6 +66,29 @@
 
 
 
+### 步驟二：三角形、banner 區域、footer 區域
+
+1、三角形可使用偽元素來做。
+
+
+
+2、banner 區域結構如下，放在 **`shop_list.html`** 頁面的 **`header.header`** 元素同層的下方：
+
+```html
+<section class="banner_bg"></section>
+```
+
+
+
+3、footer 區域的結構如下，兩個網頁檔都要放，放在 **`body 結尾標籤`**之前：
+
+```html
+<footer class="footer">
+  &copy; 花享 2023 (網頁版型切版練習)
+  <span class="text">本練習之圖片皆出自 <a href="https://www.cleanpng.com/" target="_blank">CLEANPNG</a></span>
+</footer>
+```
+
 
 
 ## 繳交方式
