@@ -173,6 +173,50 @@
 
 
 
+### 步驟六：詳細頁的描述區域
+
+在 `shop_detail.html` 檔中，在 **`header.header`** 元素同層的下方，放以下結構：
+
+```html
+<section class="sec1">
+  <div class="flex_container">
+    <div class="items -left">
+      <div class="img_block">
+        <img src="./images/product1.png">
+      </div>
+    </div>
+    <div class="items -right">
+      <h1 class="title1">向日葵商品名稱向日葵商品名稱</h1>
+      <ul class="desc_list">
+        <li>市價：<span class="original_price">$2200</span></li>
+        <li>售價：<span class="sell_price">$1850</span></li>
+      </ul>
+      <p>
+        向日葵像極了高掛在天空的太陽；向日葵除了外型酷似太陽以外，她的花朵明亮大方，適合觀賞擺飾。送禮自用兩相宜。
+        向日葵像極了高掛在天空的太陽；向日葵除了外型酷似太陽以外，她的花朵明亮大方，適合觀賞擺飾。送禮自用兩相宜。
+        向日葵像極了高掛在天空的太陽；向日葵除了外型酷似太陽以外，她的花朵明亮大方，適合觀賞擺飾。送禮自用兩相宜。
+      </p>
+
+      <form class="buy_form" action="#" method="#">
+        <div class="item_block">
+          <label class="label_item">購買數量</label>
+          <input type="number" class="buy_count" value="1" min="1">
+        </div>
+        <div class="item_block">
+          <span class="temp"></span>
+          <button type="submit">購買</button>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</section>
+```
+
+完成示意：
+
+<figure><img src=".gitbook/assets/detail_sec1_hint.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## 繳交方式
