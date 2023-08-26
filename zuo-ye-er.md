@@ -91,7 +91,7 @@
 
 
 
-## 步驟三：兩欄式及背景
+### 步驟三：兩欄式及背景
 
 在 `shop_list.html` 檔中的 `section.banner_bg` 元素同層的下方，放以下的結構：
 
@@ -110,6 +110,33 @@
 完成示意：
 
 <figure><img src=".gitbook/assets/Screenshot 2023-08-26 at 10.38.02 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 步驟四：側邊欄
+
+在 `shop_list.html` 檔中，`aside.aside` 元素的**裡面**，放以下的結構：
+
+```html
+<h1 class="title1">種類篩選</h1>
+<form action="#" method="#">
+  <ul class="type_list">
+    <li>
+      <input type="checkbox" class="type" id="type1">
+      <label for="type1">畢業花束</label>
+    </li>
+    <li>
+      <input type="checkbox" class="type" id="type2">
+      <label for="type2">會場佈置</label>
+    </li>
+    <li>
+      <input type="checkbox" class="type" id="type3">
+      <label for="type3">單朵包裝</label>
+    </li>
+  </ul>
+  <button type="submit" class="btn_submit">篩選</button>
+</form>
+```
 
 
 
