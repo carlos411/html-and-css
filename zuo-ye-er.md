@@ -144,6 +144,31 @@
 
 
 
+### 步驟五：主內容
+
+在 `shop_list.html` 檔中，在 `main.main` 元素的**裡面**，放以下的結構( **`li 放 10 個`** )：
+
+```html
+<ul class="product_list">
+
+  <li>
+    <a href="./shop_detail.html">
+      <h1 class="title1">向日葵商品名稱向日葵商品名稱</h1>
+      <div class="img_block">
+        <img src="./images/product1.png">
+      </div>
+      <div class="price_block">
+        <div class="left_block">市價：<span class="original_price">$2200</span></div>
+        <div class="right_block">售價：<span class="sell_price">$1850</span></div>
+      </div>
+    </a>
+  </li>
+  
+</ul>
+```
+
+
+
 
 
 ## 繳交方式
