@@ -91,6 +91,28 @@
 
 
 
+## 步驟三：兩欄式及背景
+
+在 `shop_list.html` 檔中的 `section.banner_bg` 元素同層的下方，放以下的結構：
+
+```html
+<div class="main_block">
+  <div class="inner_block">
+
+    <aside class="aside">aside<br>aside</aside>
+
+    <main class="main">main</main>
+
+  </div>
+</div>
+```
+
+完成示意：
+
+<figure><img src=".gitbook/assets/Screenshot 2023-08-26 at 10.38.02 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## 繳交方式
 
 於以下網址繳交：
