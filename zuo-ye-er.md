@@ -167,6 +167,10 @@
 </ul>
 ```
 
+完成示意：
+
+<figure><img src=".gitbook/assets/main_product_sample.png" alt=""><figcaption></figcaption></figure>
+
 
 
 
