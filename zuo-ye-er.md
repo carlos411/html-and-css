@@ -219,6 +219,44 @@
 
 
 
+### 步驟七：左右圖文編排
+
+在 `shop_detail.html` 檔中，`section.sec1` 同層的下方，貼以下的結構：
+
+```html
+<section class="sec2 -type1">
+  <div class="flex_container">
+
+    <div class="flex_item -img">
+      <img src="./images/product2.png">
+    </div>
+
+    <div class="flex_item -text">
+      <h1 class="title1">商品描述一</h1>
+      <p class="para">這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述</p>
+    </div>
+
+  </div>
+</section>
+
+<section class="sec2 -type2">
+  <div class="flex_container">
+
+    <div class="flex_item -text">
+      <h1 class="title1">商品描述一</h1>
+      <p class="para">這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述這是商品一的描述</p>
+    </div>
+
+    <div class="flex_item -img">
+      <img src="./images/product3.png">
+    </div>
+
+  </div>
+</section>
+```
+
+
+
 ## 繳交方式
 
 於以下網址繳交：
