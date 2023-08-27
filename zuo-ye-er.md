@@ -303,6 +303,14 @@
 </section>
 ```
 
+完成示意：
+
+<figure><img src=".gitbook/assets/form_arrangement.png" alt=""><figcaption></figcaption></figure>
+
+
+
+完成。
+
 
 
 ## 繳交方式
