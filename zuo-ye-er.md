@@ -261,6 +261,48 @@
 
 
 
+### 步驟八：表單編排
+
+在 `shop_detail.html` 檔中，在 `section.sec2.-type2` 元素同層的下方，放以下的結構：
+
+```html
+<section class="sec_form">
+  <h1 class="title1">商品問題詢問</h1>
+  <form class="q_form" action="#" method="#">
+  
+    <div class="item_block">
+      <label>暱稱</label>
+      <input type="text" placeholder="請輸入暱稱">
+    </div>
+  
+    <div class="item_block">
+      <label>email</label>
+      <input type="text" placeholder="請輸入 email">
+    </div>
+  
+    <div class="item_block">
+      <label>問題類別</label>
+      <select>
+        <option>商品規格</option>
+        <option>退貨</option>
+        <option>保存相關</option>
+      </select>
+    </div>
+  
+    <div class="item_block -text">
+      <label>詢問</label>
+      <textarea class="q_text" placeholder="請輸入你的問題..."></textarea>
+    </div>
+  
+    <div class="item_block">
+      <label></label>
+      <button type="submit">問題送出</button>
+    </div>
+  
+  </form>
+</section>
+```
+
 
 
 ## 繳交方式
