@@ -255,6 +255,12 @@
 </section>
 ```
 
+完成示意：
+
+<figure><img src=".gitbook/assets/text_img_arrange.png" alt=""><figcaption></figcaption></figure>
+
+
+
 
 
 ## 繳交方式
